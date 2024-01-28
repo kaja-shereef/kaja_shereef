@@ -1,0 +1,16 @@
+body{
+    background-color:tan;
+}
+h2{
+    background-color: rosybrown;
+    font-family: 'Merriweather', serif;
+
+    text-align: center;
+    font-size: large;
+    margin-top: 15%;
+    border: 2px solid black;
+    padding: 7% 15%;
+}
+h1{
+    color: black;
+}
